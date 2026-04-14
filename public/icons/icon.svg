@@ -1,1 +1,20 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <!-- Background -->
+  <rect width="192" height="192" rx="40" fill="#0a0a0f"/>
+  <!-- Outer ring -->
+  <circle cx="96" cy="96" r="70" fill="none" stroke="#00f0ff" stroke-width="4" opacity="0.4"/>
+  <!-- Headphone arc left -->
+  <path d="M42 96 A54 54 0 0 1 150 96" fill="none" stroke="#00f0ff" stroke-width="7" stroke-linecap="round"/>
+  <!-- Left earpad -->
+  <rect x="34" y="88" width="20" height="32" rx="10" fill="#00f0ff" opacity="0.9"/>
+  <!-- Right earpad -->
+  <rect x="138" y="88" width="20" height="32" rx="10" fill="#ff00aa" opacity="0.9"/>
+  <!-- Waveform bars -->
+  <rect x="72" y="112" width="7" height="16" rx="3" fill="#00f0ff" opacity="0.8"/>
+  <rect x="84" y="104" width="7" height="24" rx="3" fill="#ff00aa" opacity="0.9"/>
+  <rect x="96" y="96" width="7" height="32" rx="3" fill="#00f0ff"/>
+  <rect x="108" y="104" width="7" height="24" rx="3" fill="#ff00aa" opacity="0.9"/>
+  <rect x="120" y="112" width="7" height="16" rx="3" fill="#00f0ff" opacity="0.8"/>
+  <!-- Center dot -->
+  <circle cx="96" cy="96" r="5" fill="#ffffff" opacity="0.6"/>
+</svg>
